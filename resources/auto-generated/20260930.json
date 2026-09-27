@@ -1,0 +1,101 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "nothing in life is to be feared, it is only to be understood. now is the time to understand more, so that we may fear less.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "people",
+    "y": "toggle",
+    "a": "construct",
+    "g": "bag",
+    "h": "apps",
+    "l": "water",
+    "m": "tv",
+    "r": "star",
+    "e": "umbrella",
+    "u": "send",
+    "w": "pause",
+    "f": "person",
+    "d": "cut",
+    "b": "beer",
+    "n": "flag",
+    "t": "sad",
+    "o": "unlink",
+    "s": "subway"
+  },
+  "other_info": {
+    "Author": "Marie Curie"
+  }
+}
