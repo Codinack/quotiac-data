@@ -1,0 +1,101 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "everything is worth what its purchaser will pay for it.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "n": "stop",
+    "v": "duplicate",
+    "p": "color-fill",
+    "c": "today",
+    "g": "exit",
+    "l": "locate",
+    "r": "warning",
+    "o": "finger-print",
+    "a": "bag-add",
+    "f": "tv",
+    "y": "earth",
+    "e": "bag",
+    "w": "documents",
+    "u": "location",
+    "t": "radio",
+    "s": "cloud-download",
+    "h": "car",
+    "i": "disc"
+  },
+  "other_info": {
+    "Author": "Publius Syrus"
+  }
+}
