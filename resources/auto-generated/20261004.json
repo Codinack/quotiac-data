@@ -1,0 +1,86 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the whole is more than the sum of its parts.",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "ribbon",
+    "o": "flame",
+    "l": "train",
+    "p": "bag-check",
+    "m": "create",
+    "u": "lock-open",
+    "i": "chevron-back",
+    "t": "leaf",
+    "a": "help-buoy",
+    "f": "flower",
+    "h": "film",
+    "e": "videocam",
+    "w": "save",
+    "r": "ice-cream",
+    "n": "apps"
+  },
+  "other_info": {
+    "Author": "Aristotle"
+  }
+}
