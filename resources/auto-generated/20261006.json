@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "time passes faster the further you are from a massive object, but it passes slower the faster you move.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "j": "chatbubbles",
+    "i": "move",
+    "l": "magnet",
+    "o": "ribbon",
+    "p": "walk",
+    "m": "barcode",
+    "b": "cash",
+    "a": "airplane",
+    "v": "pint",
+    "w": "lock-open",
+    "y": "duplicate",
+    "u": "heart-dislike",
+    "h": "options",
+    "f": "layers",
+    "t": "caret-forward",
+    "c": "fitness",
+    "r": "wine",
+    "s": "ear",
+    "e": "time"
+  },
+  "other_info": {}
+}
