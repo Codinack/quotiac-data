@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "there are 293 ways to make change for a dollar.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "cart",
+    "s": "business",
+    "t": "umbrella",
+    "l": "open",
+    "g": "invert-mode",
+    "d": "play-forward",
+    "m": "shirt",
+    "y": "compass",
+    "w": "scan",
+    "e": "speedometer",
+    "o": "medal",
+    "f": "cloud-offline",
+    "h": "camera",
+    "k": "stop",
+    "c": "document-lock",
+    "n": "bar-chart",
+    "a": "eye-off"
+  },
+  "other_info": {}
+}
