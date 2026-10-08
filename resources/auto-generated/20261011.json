@@ -1,0 +1,101 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "there is a single light of science, and to brighten it anywhere is to brighten it everywhere.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "cog",
+    "g": "male",
+    "e": "bar-chart",
+    "i": "contract",
+    "t": "caret-down",
+    "s": "football",
+    "l": "crop",
+    "w": "train",
+    "h": "fast-food",
+    "y": "locate",
+    "c": "create",
+    "o": "mic",
+    "d": "call",
+    "a": "wine",
+    "f": "shapes",
+    "n": "checkmark-done",
+    "r": "funnel",
+    "v": "eye"
+  },
+  "other_info": {
+    "Author": "Isaac Asimov"
+  }
+}
