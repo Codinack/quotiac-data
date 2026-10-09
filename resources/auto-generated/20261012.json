@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "oh, you think darkness is your ally? but you merely adopted the dark. i was born in it. molded by it. i didn't see the light until i was already a man. by then, it was nothing to me but blinding! the shadows betray you because they belong to me!",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "help-buoy",
+    "n": "bicycle",
+    "e": "invert-mode",
+    "s": "cart",
+    "w": "pizza",
+    "o": "car",
+    "d": "basketball",
+    "m": "mail-open",
+    "l": "bug",
+    "r": "at",
+    "g": "egg",
+    "u": "documents",
+    "y": "chatbox-ellipses",
+    "a": "checkmark",
+    "b": "repeat",
+    "k": "bookmark",
+    "p": "compass",
+    "h": "easel",
+    "c": "apps",
+    "t": "newspaper"
+  },
+  "other_info": {
+    "Character Name": "Bane",
+    "Source": "The Dark Knight Rises",
+    "Date": "2012"
+  }
+}
