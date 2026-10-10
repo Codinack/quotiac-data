@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "he who would catch fish must not mind getting wet.",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "g": "male",
+    "a": "cloudy-night",
+    "c": "leaf",
+    "i": "boat",
+    "d": "play-forward",
+    "t": "image",
+    "n": "glasses",
+    "f": "remove",
+    "h": "wine",
+    "m": "happy",
+    "l": "code-working",
+    "u": "calculator",
+    "o": "gift",
+    "e": "bed",
+    "w": "rose",
+    "s": "barcode"
+  },
+  "other_info": {}
+}
