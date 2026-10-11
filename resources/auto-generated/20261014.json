@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "even a fish wouldn't get caught if he kept his mouth shut.",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "school",
+    "c": "bag-handle",
+    "v": "square",
+    "e": "code-download",
+    "h": "filter",
+    "w": "options",
+    "s": "rose",
+    "g": "analytics",
+    "i": "planet",
+    "a": "tv",
+    "d": "reload",
+    "f": "crop",
+    "l": "barbell",
+    "k": "fish",
+    "u": "caret-down",
+    "t": "mail-open",
+    "p": "bus",
+    "n": "paper-plane",
+    "o": "cloudy-night"
+  },
+  "other_info": {}
+}
