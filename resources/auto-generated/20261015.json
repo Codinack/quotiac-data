@@ -1,0 +1,110 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "this thing all things devours;\nbirds, beasts, trees, flowers;\ngnaws iron, bites steel;\ngrinds hard stones to meal;\nslays king, ruins town,\nand beats mountain down.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "car",
+    "a": "grid",
+    "s": "mic",
+    "r": "reload",
+    "f": "star",
+    "y": "color-palette",
+    "w": "accessibility",
+    "l": "walk",
+    "k": "chevron-back",
+    "v": "planet",
+    "u": "restaurant",
+    "t": "cube",
+    "i": "happy",
+    "h": "flame",
+    "n": "desktop",
+    "g": "storefront",
+    "o": "basket",
+    "d": "help-buoy",
+    "m": "chevron-up",
+    "e": "rocket"
+  },
+  "question_answer": "This thing all things devours;\nBirds, beasts, trees, flowers;\nGnaws iron, bites steel;\nGrinds hard stones to meal;\nSlays king, ruins town,\nAnd beats mountain down.",
+  "other_info": {}
+}
