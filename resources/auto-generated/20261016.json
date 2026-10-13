@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "tell me what you eat, and i will tell you what you are.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "w": "wifi",
+    "d": "rainy",
+    "m": "bus",
+    "l": "chevron-back",
+    "i": "hammer",
+    "h": "star",
+    "a": "basket",
+    "t": "compass",
+    "r": "flag",
+    "e": "beaker",
+    "y": "golf",
+    "u": "checkmark-done",
+    "n": "pint",
+    "o": "link"
+  },
+  "other_info": {
+    "Author": "Anthelme Brilla,S-avarin"
+  }
+}
