@@ -1,0 +1,109 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "octopuses have three hearts, and two of them stop beating when they swim",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "chatbubble",
+    "h": "newspaper",
+    "n": "infinite",
+    "f": "today",
+    "i": "caret-forward",
+    "c": "people",
+    "b": "man",
+    "t": "chatbox",
+    "e": "checkmark-done",
+    "r": "heart",
+    "d": "extension-puzzle",
+    "g": "musical-notes",
+    "o": "clipboard",
+    "w": "ban",
+    "v": "car",
+    "u": "hardware-chip",
+    "y": "headset",
+    "s": "bag-add",
+    "p": "star",
+    "a": "play-forward"
+  },
+  "other_info": {}
+}
