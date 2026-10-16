@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Sitcom Quote",
+  "string_to_encrypt": "you miss 100% of the shots you don't take -wayne gretzky -michael scott",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "cart",
+    "u": "code-slash",
+    "s": "crop",
+    "a": "browsers",
+    "r": "color-fill",
+    "y": "shield",
+    "g": "moon",
+    "c": "mail-open",
+    "t": "color-wand",
+    "f": "pause",
+    "h": "notifications-off",
+    "z": "sparkles",
+    "i": "ban",
+    "k": "filter",
+    "d": "play-back",
+    "w": "receipt",
+    "l": "videocam",
+    "m": "stop",
+    "e": "duplicate",
+    "n": "heart-half"
+  },
+  "other_info": {
+    "Character Name": "Michael Scott",
+    "Source": "The Office",
+    "Date": "2008"
+  }
+}
