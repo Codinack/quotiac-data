@@ -1,0 +1,123 @@
+{
+  "puzzle_type": "Seven Wonders of The Ancient World",
+  "string_to_encrypt": "^mausoleum at halicarnassus^ ^colossus of rhodes^ ^statue of zeus at olympia^ ^hanging gardens of babylon^ ^great pyramid of giza^ ^temple of artemis at ephesus^ ^lighthouse of alexandria^",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "z": "remove",
+    "e": "receipt",
+    "o": "briefcase",
+    "l": "bicycle",
+    "t": "move",
+    "r": "boat",
+    "g": "clipboard",
+    "a": "business",
+    "f": "color-filter",
+    "d": "bar-chart",
+    "u": "backspace",
+    "x": "caret-back",
+    "c": "trophy",
+    "y": "heart",
+    "m": "log-in",
+    "s": "chatbubble-ellipses",
+    "b": "analytics",
+    "n": "female",
+    "i": "football",
+    "h": "color-wand",
+    "p": "battery-charging"
+  },
+  "elements": [
+    "Mausoleum at Halicarnassus",
+    "Colossus of Rhodes",
+    "Statue of Zeus at Olympia",
+    "Hanging Gardens of Babylon",
+    "Great Pyramid of Giza",
+    "Temple of Artemis at Ephesus",
+    "Lighthouse of Alexandria"
+  ],
+  "other_info": {}
+}
