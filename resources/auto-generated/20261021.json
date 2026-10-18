@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "tell me what you eat, and i will tell you what you are.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "calendar",
+    "d": "wifi",
+    "y": "square",
+    "r": "battery-charging",
+    "l": "easel",
+    "a": "bicycle",
+    "o": "mail-open",
+    "h": "call",
+    "n": "golf",
+    "i": "caret-down",
+    "w": "mic-off",
+    "m": "bag-handle",
+    "t": "shirt",
+    "e": "navigate"
+  },
+  "other_info": {
+    "Author": "Anthelme Brilla,S-avarin"
+  }
+}
