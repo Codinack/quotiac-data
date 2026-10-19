@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "human teeth are the only part of the body that cannot heal themselves.",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "ticket",
+    "h": "train",
+    "n": "checkmark",
+    "a": "bag-remove",
+    "e": "flame",
+    "b": "hand-left",
+    "r": "musical-note",
+    "f": "musical-notes",
+    "y": "pint",
+    "p": "business",
+    "s": "walk",
+    "l": "earth",
+    "u": "send",
+    "t": "chevron-forward",
+    "v": "browsers",
+    "o": "aperture",
+    "c": "stop",
+    "m": "cut"
+  },
+  "other_info": {}
+}
