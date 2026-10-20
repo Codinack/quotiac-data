@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "90 % of the world\u2019s population lives in the northern hemisphere.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "egg",
+    "w": "camera",
+    "u": "heart",
+    "r": "code",
+    "h": "bag",
+    "l": "headset",
+    "v": "book",
+    "t": "compass",
+    "s": "shuffle",
+    "p": "sunny",
+    "d": "fish",
+    "n": "nutrition",
+    "f": "copy",
+    "e": "flash-off",
+    "m": "cloud-done",
+    "a": "flag",
+    "o": "nuclear"
+  },
+  "other_info": {}
+}
