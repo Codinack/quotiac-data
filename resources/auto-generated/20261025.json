@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Pies",
+  "string_to_encrypt": "^pecan^ ^meat^ ^pumpkin^ ^key lime^ ^cherry^ ^blueberry^ ^chicken pot pie^ ^lemon meringue^ ^shepherd's^ ^apple^",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "pint",
+    "t": "thunderstorm",
+    "m": "pizza",
+    "r": "settings",
+    "p": "eyedrop",
+    "o": "brush",
+    "e": "duplicate",
+    "k": "cut",
+    "a": "cellular",
+    "l": "man",
+    "s": "wifi",
+    "b": "reader",
+    "d": "library",
+    "n": "bandage",
+    "h": "cloud-done",
+    "y": "exit",
+    "c": "bag",
+    "i": "repeat",
+    "g": "bag-check"
+  },
+  "elements": [
+    "Pecan",
+    "Meat",
+    "Pumpkin",
+    "Key Lime",
+    "Cherry",
+    "Blueberry",
+    "Chicken Pot Pie",
+    "Lemon Meringue",
+    "Shepherd's",
+    "Apple"
+  ],
+  "other_info": {}
+}
