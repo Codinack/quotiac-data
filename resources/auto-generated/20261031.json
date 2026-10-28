@@ -1,0 +1,93 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "fear is the path to the dark side. fear leads to anger, anger leads to hate, hate leads to suffering.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "beaker",
+    "f": "basketball",
+    "k": "wallet",
+    "i": "camera",
+    "e": "watch",
+    "o": "server",
+    "g": "square",
+    "l": "card",
+    "s": "library",
+    "u": "heart",
+    "h": "body",
+    "p": "flash",
+    "d": "easel",
+    "r": "male",
+    "t": "thunderstorm",
+    "n": "cube"
+  },
+  "other_info": {
+    "Character Name": "Yoda",
+    "Source": "Episode I: The Phantom Menace",
+    "Date": "1999"
+  }
+}
