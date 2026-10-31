@@ -1,0 +1,135 @@
+{
+  "puzzle_type": "Spider-Man Villains in Live-Action Film",
+  "string_to_encrypt": "^doctor octopus^ ^green goblin^ ^mr. white^ ^vulture^ ^lizard^ ^morbius^ ^hobgoblin^ ^carnage^ ^electro^ ^venom^ ^mysterio^ ^rhino^ ^kingpin^ ^sandman^",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "rocket",
+    "n": "journal",
+    "t": "menu",
+    "s": "checkmark",
+    "l": "at",
+    "d": "megaphone",
+    "z": "shuffle",
+    "k": "flame",
+    "b": "scale",
+    "h": "nuclear",
+    "e": "thunderstorm",
+    "r": "construct",
+    "g": "baseball",
+    "i": "caret-forward",
+    "o": "book",
+    "y": "gift",
+    "v": "chatbox-ellipses",
+    "c": "airplane",
+    "w": "chatbox",
+    "a": "chevron-back",
+    "p": "golf",
+    "u": "cog"
+  },
+  "elements": [
+    "Doctor Octopus",
+    "Green Goblin",
+    "Mr. White",
+    "Vulture",
+    "Lizard",
+    "Morbius",
+    "Hobgoblin",
+    "Carnage",
+    "Electro",
+    "Venom",
+    "Mysterio",
+    "Rhino",
+    "Kingpin",
+    "Sandman"
+  ],
+  "other_info": {}
+}
