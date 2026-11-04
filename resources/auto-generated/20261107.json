@@ -1,0 +1,98 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "you keep using that word. i do not think it means what you think it means.",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "k": "flash",
+    "w": "color-palette",
+    "m": "wine",
+    "i": "today",
+    "o": "nutrition",
+    "g": "checkbox",
+    "e": "briefcase",
+    "a": "play-forward",
+    "r": "navigate",
+    "u": "star",
+    "y": "bonfire",
+    "p": "medical",
+    "d": "bug",
+    "n": "chevron-forward",
+    "t": "magnet",
+    "h": "notifications",
+    "s": "heart"
+  },
+  "other_info": {
+    "Character Name": "Inigo Montoya",
+    "Source": "The Princess Bride",
+    "Date": "1987"
+  }
+}
