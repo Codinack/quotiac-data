@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the giant squid has the largest eyes in the world.",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "w": "bonfire",
+    "g": "cloud",
+    "l": "archive",
+    "r": "exit",
+    "i": "list",
+    "d": "pint",
+    "s": "calculator",
+    "e": "eyedrop",
+    "t": "chevron-up",
+    "u": "ban",
+    "h": "paw",
+    "q": "chevron-expand",
+    "n": "invert-mode",
+    "y": "home",
+    "a": "shuffle",
+    "o": "cloud-done"
+  },
+  "other_info": {}
+}
