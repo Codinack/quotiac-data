@@ -1,0 +1,79 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "botanically, strawberries are not berries, but bananas are.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "game-controller",
+    "c": "ellipsis-horizontal",
+    "u": "walk",
+    "y": "cloud-done",
+    "n": "pause",
+    "o": "chatbubble-ellipses",
+    "i": "medal",
+    "t": "nutrition",
+    "w": "settings",
+    "l": "cart",
+    "r": "aperture",
+    "b": "videocam",
+    "s": "basketball",
+    "a": "cafe"
+  },
+  "other_info": {}
+}
