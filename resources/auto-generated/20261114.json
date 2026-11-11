@@ -1,0 +1,88 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "one does not simply walk into mordor",
+  "hints": [
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "enter",
+    "p": "pizza",
+    "w": "lock-open",
+    "o": "magnet",
+    "s": "library",
+    "k": "rose",
+    "r": "scale",
+    "n": "chevron-back",
+    "y": "thunderstorm",
+    "l": "happy",
+    "m": "unlink",
+    "i": "add",
+    "a": "alarm",
+    "d": "heart-half",
+    "t": "options"
+  },
+  "other_info": {
+    "Character Name": "Boromir",
+    "Source": "Lord of the Rings: The Fellowship of the Ring",
+    "Date": "2001"
+  }
+}
