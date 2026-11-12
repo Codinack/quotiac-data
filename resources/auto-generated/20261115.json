@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "giraffe tongues can be up to 20 inches long",
+  "hints": [
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "hourglass",
+    "s": "today",
+    "n": "body",
+    "t": "cube",
+    "e": "storefront",
+    "o": "flash",
+    "h": "cog",
+    "f": "american-football",
+    "g": "color-palette",
+    "p": "radio",
+    "l": "crop",
+    "r": "browsers",
+    "u": "fish",
+    "c": "cellular",
+    "i": "caret-forward",
+    "b": "settings"
+  },
+  "other_info": {}
+}
