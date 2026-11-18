@@ -1,0 +1,109 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the only word in english with three consecutive sets of double letters is \u201cbookkeeper\".",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "v": "duplicate",
+    "p": "eye",
+    "c": "color-fill",
+    "o": "code-working",
+    "s": "ticket",
+    "g": "barbell",
+    "h": "hammer",
+    "i": "musical-note",
+    "e": "bag-handle",
+    "y": "download",
+    "u": "cash",
+    "l": "rocket",
+    "f": "at",
+    "n": "rainy",
+    "r": "walk",
+    "w": "document",
+    "t": "ear",
+    "b": "golf",
+    "k": "mail-open",
+    "d": "notifications-off"
+  },
+  "other_info": {}
+}
