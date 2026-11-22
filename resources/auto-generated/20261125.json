@@ -1,0 +1,109 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "what do you get if you cross a joke with a rhetorical question?",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "q": "happy",
+    "t": "nutrition",
+    "i": "subway",
+    "k": "pie-chart",
+    "c": "male",
+    "u": "cash",
+    "f": "wifi",
+    "l": "chevron-up",
+    "d": "rocket",
+    "s": "compass",
+    "y": "hand-left",
+    "w": "trophy",
+    "n": "flashlight",
+    "g": "moon",
+    "o": "bookmark",
+    "r": "stop",
+    "e": "bag-check",
+    "j": "eye-off",
+    "h": "scan",
+    "a": "ear"
+  },
+  "other_info": {}
+}
