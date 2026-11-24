@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "you've got to ask yourself one question: 'do i feel lucky?' well, do ya, punk?",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "clipboard",
+    "k": "chatbubble",
+    "q": "storefront",
+    "t": "boat",
+    "d": "sunny",
+    "f": "basket",
+    "i": "cloud-offline",
+    "s": "bicycle",
+    "p": "hand-left",
+    "a": "globe",
+    "l": "paper-plane",
+    "w": "musical-notes",
+    "n": "car",
+    "y": "menu",
+    "e": "square",
+    "r": "disc",
+    "c": "eye",
+    "g": "mic-off",
+    "u": "female",
+    "v": "extension-puzzle"
+  },
+  "other_info": {
+    "Character Name": "Harry Callahan",
+    "Source": "Dirty Harry",
+    "Date": "1971"
+  }
+}
