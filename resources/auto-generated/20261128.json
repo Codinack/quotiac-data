@@ -1,0 +1,71 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "put your shoulder to the wheel.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "color-wand",
+    "w": "film",
+    "h": "checkbox",
+    "d": "flashlight",
+    "u": "videocam",
+    "l": "eyedrop",
+    "o": "copy",
+    "t": "wine",
+    "y": "bag",
+    "s": "expand",
+    "p": "bag-remove",
+    "e": "flask"
+  },
+  "other_info": {
+    "Author": "Aesop"
+  }
+}
