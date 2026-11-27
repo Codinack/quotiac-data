@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Poem",
+  "string_to_encrypt": "the best laid plans of mice and men aft gang agley.",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "boat",
+    "m": "cloud-upload",
+    "h": "contract",
+    "c": "person",
+    "n": "hourglass",
+    "y": "resize",
+    "a": "expand",
+    "e": "fast-food",
+    "l": "heart",
+    "s": "calendar",
+    "i": "attach",
+    "p": "water",
+    "g": "bag",
+    "o": "gift",
+    "d": "alarm",
+    "f": "save",
+    "t": "download"
+  },
+  "other_info": {
+    "Author": "Robert Burns, To a Mouse"
+  }
+}
