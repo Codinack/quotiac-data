@@ -1,0 +1,109 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "scientists opened up beethoven's grave, and he was sitting up erasing something. they asked him what he was doing, and he said, \"i'm decomposing.\"",
+  "hints": [
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "archive",
+    "a": "flask",
+    "b": "color-fill",
+    "w": "glasses",
+    "h": "call",
+    "k": "list",
+    "t": "locate",
+    "e": "person",
+    "g": "recording",
+    "o": "log-in",
+    "c": "battery-charging",
+    "d": "chevron-forward",
+    "y": "trophy",
+    "m": "cube",
+    "u": "pin",
+    "r": "flag",
+    "s": "cart",
+    "p": "cog",
+    "v": "hourglass",
+    "n": "globe"
+  },
+  "other_info": {}
+}
